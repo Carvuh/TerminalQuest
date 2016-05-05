@@ -1,6 +1,13 @@
 ### Welcome *Adventurerer*... to
 # Terminal Quest!
 
+      _____                    _             _   ____                 _   
+     /__   \___ _ __ _ __ ___ (_)_ __   __ _| | /___ \_   _  ___  ___| |_ 
+       / /\/ _ \ '__| '_ ` _ \| | '_ \ / _` | |//  / / | | |/ _ \/ __| __|
+      / / |  __/ |  | | | | | | | | | | (_| | / \_/ /| |_| |  __/\__ \ |_ 
+      \/   \___|_|  |_| |_| |_|_|_| |_|\__,_|_\___,_\ \__,_|\___||___/\__|
+                                                                          
+
 Okay, yeah, that was kind of dumb. Hey guys! I'm currently just trying to learn Python to place on my CV and I thought, "Hey, wouldn't it be cool if I could just make a game or something? Ever since "Bash On Ubuntu On Windows" (Real name, I swear...) came out, I thought it would be the best time.
 
 I'll eventually make a wiki and would love for the community to get into this stuff!

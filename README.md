@@ -22,6 +22,7 @@ Do not fret, my child. Soon... there will be a wiki. But until then, take a look
 ## Commands
 ### All commands **ARE** case-sensitive.
 | Command | Description | Example |
+|---------|-------------|---------|
 | **/roll**   | Can roll a set of die, ranging from d4 to a d20 | */roll d20* or can set roll times up to 9: */roll 3xd6* |
 | **/check**  | Will roll a check on a certain attribute given an advantage or disadvantage | */check strength* |
 

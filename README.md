@@ -16,7 +16,7 @@ I might *redo* the name... who knows. I think TerminalQuest is already the name 
 
 # What is *TerminalQuest*?
 
-TerminalQuest, created by [@Carvuh](http://www.twitter.com/Carvuh) -- Justin Carver, is just something I am doing in my spare time as I stated above. I'm pretty much doing this to deepen my knowledge in Python and hopefully get something going that future people can contribute to. Players can choose whatever they wanted to be. Using only text, players can explore forgotten realms, unexplored planes, and do whatever they can to become the adventurer they have alwayed wanted to be.
+TerminalQuest, created by Justin Carver, is just something I am doing in my spare time as I stated above. I'm pretty much doing this to deepen my knowledge in Python and hopefully get something going that future people can contribute to. Players can choose whatever they wanted to be. Using only text, players can explore forgotten realms, unexplored planes, and do whatever they can to become the adventurer they have alwayed wanted to be.
 
 This game will be EXTREMELY easy to mod. Just fork the repo, change the source (*duh, of course*) and CSV files to fit your need, and you will be pretty much on your way. I am trying to make this as modular as possible, though, keep a fantasy aspect in mind.
 
